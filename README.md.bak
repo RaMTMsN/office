@@ -14,10 +14,12 @@
 
 int main()
 {
+    /* 我的第一个 C 程序 */
+    printf(“Hello, World! \n”);
     return 0;
 }
 ```
->这是一段引用
+>We do everything to avoid dying alone.But in the end,we all die,alone.
 
 - 无序列表
 1. 有序1
@@ -25,15 +27,15 @@ int main()
 
 姓名|性别|年龄
 ---|:--:|---:
-smq|男|21
-123|456|789
+Zhi|男|21
+Geo|？|？
 
 
 **粗体**
 
 *斜体*
 
-~~我被删了~~
+~~debu~~
 
 -----
 *****
